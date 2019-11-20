@@ -30,7 +30,15 @@ websites:
       - totp
       - hardware
     doc: https://www.bitcoin.de/de/faq/was-ist-die-2-step-verification-2-faktor-authentifizierung/46.html
-
+    
+  - name: Bitcoin Suisse
+    url: https://bitcoinsuisse.com/
+    img: bitcoinsuisse.png
+    tfa:
+      - totp
+      - hardware
+    doc: https://support.bitcoinsuisse.com/hc/en-us/articles/360004700320-Step-1-Create-Login
+      
   - name: BitcoinTrade
     url: https://bitcointrade.com.br/
     img: bitcointrade.png
